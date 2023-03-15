@@ -1,6 +1,6 @@
 ### "Falaí Geek, Beleza"?! 🖖
 
-My name is Rodrigo Dias. Front-end Developer and Data Engineer. I worked on projects for major brands such as Itaú, OI, B2W Digital (Shoptime, Sou Barato, Americanas), FGV, Prudential, Diageo, Stefanini IT, Isto é, Toque a Campainha and Others. I've been working as Front-End Developer since 2008 and currently I'm Data Engineer at [DP6](https://dp6.com.br).
+My name is Rodrigo Dias. Front-end Developer and Data Engineer. I worked on projects for major brands such as Itaú, OI, B2W Digital (Shoptime, Sou Barato, Americanas), FGV, Prudential, Diageo, Stefanini IT, Isto é, Toque a Campainha, CIEDS and Others. I've been working as Front-End Developer since 2008 and currently I'm Data Engineer at [DP6](https://dp6.com.br).
 
 In my free time I like to watch movies (🎞️) and series (📺), to play videogame (🎮), to listen and play to music (🎵) and produce geek content to Youtube Channel [Geek Project TV](https://bit.ly/geekprojecttv), my Blog [Geek Project](https://geekproject.com.br) and my Twitch Channel [@GeekProject](https://twitch.com/geekproject).
 
